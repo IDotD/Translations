@@ -1,7 +1,7 @@
 {
     "chat": {
         "actions": {
-            "banUser": "Benutzer bannen",
+            "banUser": "Nutzer bannen",
             "makeMod": "Zu Moderator befördern",
             "makeAdmin": "Zu Admin befördern",
             "makeUser": "Zu Benutzer degradieren",
