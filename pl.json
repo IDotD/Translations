@@ -1,0 +1,101 @@
+{
+    "chat": {
+        "actions": {
+            "banUser": "Banuj użytkownika",
+            "makeMod": "Dodaj moderatora",
+            "makeAdmin": "Dodaj admina",
+            "makeUser": "Dodaj użytkownika",
+            "close": "Zamknij",
+            "invite": "Zaproś do czatu",
+            "createChat": "Stwórz czat",
+            "joinChat": "Dołącz do czatu",
+            "createAddChat": "Kliknij żeby stworzyć nowy czat",
+            "copyIdPasswort": "Kopiuj hasło&Id",
+            "deleteRoom": "Usuń pokój",
+            "leaveRoom": "Opuść pokój"
+        },
+        "texts": {
+            "settings": "Więcej ustawień w ",
+            "account": "Konto",
+            "title": "Czat",
+            "creditEmoticon": "Emotikony dostarczone przez ",
+            "optional": "Ta część skryptu jest opcjonalna, więc logowanie nie jest wymagane do wyłapywania rajdów itp.",
+            "invalid": "To nie powinny być dane do logowania na podobnej stronie gier oraz login nie musi być taki sam jak nazwa gracza - możesz ustawić wyświetlaną nazwę po rejestracji.",
+            "offline": "Niezalogowany, kliknij żeby zalogować/zarejestrować"
+        },
+        "error": {
+            "modify": "Nie można zmodyfikować tego użytkownika w obecnej chwili",
+            "create": "Nie można stworzyć w obecnej chwili",
+            "join": "Dołączanie nie powiodło się",
+            "login": "Logowanie nie powiodło się w nieoczekiwany sposób",
+            "unknown": "Nazwa użytkownika nieznzna dla dotd.idrinth.de, czy chcesz sie zarejestrować?"
+        },
+        "notification": {
+            "mention": "Powiadomienia chat-mention?",
+            "raid": "Powiadomienia chat-raid?",
+            "message": "Powiadomienia chat-message?"
+        }
+    },
+    "default": "Wystąpił niespodziewany błąd. Skontaktuj się z twórcami skryptu (https://github.com/Idrinth/IDotD).",
+    "land": {
+        "lack": "W chwili obecnej masz za mało złota żeby kupić więcej budynków.",
+        "hour": " złota na godzinę każdy",
+        "calc": "Oblicz",
+        "avaible": "Dostępne złoto"
+    },
+    "tier": {
+        "search": "Wprowadź nazwę Bossa",
+        "diff": {
+            "normal": "Normalny",
+            "hard": "Trudny",
+            "legend": "Legendarny",
+            "night": "Koszmarny"
+        },
+        "tag": "Taguj do screen-top",
+        "maxBoxes": "Nie ma w chwili obecnej wystarczająco miejsca na kojeny tier-box, zamknij najpierw jakiś."
+    },
+    "raids": {
+        "lastJoined": "Ostatnio dołączone rajdy",
+        "clear": "Wyczyść rajdy",
+        "disableJoining": "Wyłącz dołączanie dla ",
+        "clickCopy": "kliknij żeby skopiować link rajdu",
+        "imports": {
+            "manually": "Importuj wszystkie ręcznie",
+            "favs": "Importuj ulubione ręcznie",
+            "restart": "Restartuj Raidjoin"
+        },
+        "disableSpecific": "Wyłącz autodołącznie do wybranych rajdów"
+    },
+    "button": {
+        "ok": "Potwierdź",
+        "cancel": "Anuluj",
+        "reloadGame": "Odżwież grę",
+        "reloadScript": "Odżwież skrypt",
+        "refreshFBGameLogin": "Odśwież login do gry na Facebook'u",
+        "ngRaidJoin": "Dołącznie NG Raid(wolne!)",
+        "disableTimedAutoJoin": "wyłącz czasowe autodołączanie",
+        "enableTimedAutoJoin": "włącz czasowe autodołącznie"
+    },
+    "setting": {
+        "enableExtCharInfo": "Włącz rozszerzony Characterinformation?",
+        "minimLayout": "Wygląd minimalistyczny",
+        "moveSettingLeft": "Przesuń ustawienie na lewo",
+        "warBottomPage": "Ustaw war na dole strony",
+        "useGoldEfficiently": "Zaznacz żeby wykorzystać złodo najefektywniej  - odznacz by użyć najefektywniejszego zakupu w kalkulatorze zakupu ziemi",
+        "tenBuildOnce": "Kupić 10 budynków naraz?(Rec)",
+        "extCharInfoDuration": "Millisekund do zniknięcia rozszerzonego Characterinformation",
+        "joiningDuration": "Sekund potrzebnych do wczytania gry do dołączenia",
+        "enableChat": "Włącz czat(konieczne przeładowanie skryptu)",
+        "enableFavRequest": "Włącz Auto-Raid-Request dla ulubionych?",
+        "favIdToJoin": "FavoriteIds do dołączania (oddziel kolejne przecinkiem)",
+        "worldserver": "Worldserver?"
+    },
+    "ui": {
+        "settingInfo": "Ten skrypt zawsze będzie importował rajdy, które są zaznaczone na stronie oraz jeśli włączony również będzie importował wszystkie rajdy pasujące do wpisanych ulubionych wyszukiwań.",
+        "maxPopupsFrame": "Maksymalna ilość Popups/Frames do dołącznia do rajdów",
+        "timeAutoJoin": "Czas do automatycznego dołączenia do rajdów (wielokrotnie przeładowuje grę). Format [Hours]:[Minutes] bez poprzedzających zer, tzn. 7:1 jest dobrze, 07:01 już nie",
+        "getFavFrom": "Pobierz swoje search-favorites z ",
+        "raidsearch": "Idrinth's Raidsearch",
+        "reloadGameFail": "Gra nie może być przeładowana"
+    }
+}
