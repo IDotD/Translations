@@ -41,7 +41,7 @@
         "lack": "You lack gold to buy any more buildings at the moment.",
         "hour": " gold per hour each",
         "calc": "Calculate",
-        "avaible": "Avaible Gold"
+        "available": "Available Gold"
     },
     "tier": {
         "search": "Enter Boss' Name",
