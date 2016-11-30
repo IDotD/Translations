@@ -41,7 +41,7 @@
         "lack": "Sie haben nicht genug Gold, um Gebäude zu kaufen.",
         "hour": " Gold pro Stunde und Gebäude",
         "calc": "Berechne",
-        "avaible": "Verfügbares Gold"
+        "available": "Verfügbares Gold"
     },
     "tier": {
         "search": "Geben Sie den Namen des Bosses ein",
