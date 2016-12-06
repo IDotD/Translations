@@ -1,0 +1,101 @@
+{
+    "chat": {
+        "actions": {
+            "banUser": "Ban Gebruiker",
+            "makeMod": "Maak Moderator",
+            "makeAdmin": "Maak Admin",
+            "makeUser": "Maak User",
+            "close": "Sluit",
+            "invite": "Nodig uit voor Chat ",
+            "createChat": "Maak Chat",
+            "joinChat": "Deelnemen aan Chat",
+            "createAddChat": "Klik om een extra chat aan te maken",
+            "copyIdPasswort": "Copieer Password&Id",
+            "deleteRoom": "Verwijder Room",
+            "leaveRoom": "Verlaat Room"
+        },
+        "texts": {
+            "settings": "Meer settings bij ",
+            "account": "Account",
+            "title": "Chat",
+            "creditEmoticon": "Emoticons verzorgd door ",
+            "optional": "Dit gedeelde van het script is optioneel, inloggen is dus niet nodig voor Raid catching, etc.",
+            "invalid": "Gebruik hiervoor een ander password dan vood het spel wat je speelt, voor veiligheidsoverwegingen. Verder hoeft je login-naam niet overeen te komen met de naam die je in het spel gebruikt; je kan de naam die anderen kunnen zien in de chat veranderen na je registratie.",
+            "offline": "Not logged in, click to login/register"
+        },
+        "error": {
+            "modify": "Ik kan gegevevens van die user op dit moment niet wijzigen",
+            "create": "Ik kan dit niet creëren op dit moment",
+            "join": "Deelnemen aan de chat was niet mogelijk",
+            "login": "Login op een onverwachte wijze niet gelukt",
+            "unknown": "Deze naam is niet bekent op dotd.idrinth.de, wil je deze registreren?"
+        },
+        "notification": {
+            "mention": "chat-mention notificaties?",
+            "raid": "chat-raid notificaties?",
+            "message": "chat-bericht notificaties?"
+        }
+    },
+    "default": "Onverwacht probleem. Neem ajb contact op met de script developers (https://github.com/Idrinth/IDotD).",
+    "land": {
+        "lack": "Je hebt niet genoeg goud op dit moment.",
+        "hour": "Goud per uur per stuk",
+        "calc": "Bereken",
+        "available": "Beschikbaar goud"
+    },
+    "tier": {
+        "search": "Type de Boss' naam",
+        "diff": {
+            "normal": "Normal",
+            "hard": "Hard",
+            "legend": "Legend",
+            "night": "Nightmare"
+        },
+        "tag": "Tag om te screen-toppen",
+        "maxBoxes": "Er is geen ruimte voor een extra tier-box op dit moment. Sluit er één."
+    },
+    "raids": {
+        "lastJoined": "Laatste raids gejoined",
+        "clear": "Wis Raids",
+        "disableJoining": "Uitschakelen deelnemen voor ",
+        "clickCopy": "klik om de link van de raid te kopieren.",
+        "imports": {
+            "manually": "Importeer alle raids handmatig",
+            "favs": "Importeer je favourieten handmatig",
+            "restart": "Herstart Raidjoin"
+        },
+        "disableSpecific": "Uitschakelen Autojoining voor specifieke raids"
+    },
+    "button": {
+        "ok": "Okay",
+        "cancel": "Doe maar niet",
+        "reloadGame": "Herlaad het spel",
+        "reloadScript": "Herlaad Script",
+        "refreshFBGameLogin": "Refresh Facebook Spel Login",
+        "ngRaidJoin": "NG Raid deelnemen(langzaam!)",
+        "disableTimedAutoJoin": "Uitschakelen van tijd gezette Autojoin",
+        "enableTimedAutoJoin": "Inschakelen van tijd gezette Autojoin"
+    },
+    "setting": {
+        "enableExtCharInfo": "Inschakelen uitgebreide Character informatie?",
+        "minimLayout": "Minimalistische Vormgeving",
+        "moveSettingLeft": "Verplaats de settings naar links",
+        "warBottomPage": "Toon war aan de bodem van de pagina",
+        "useGoldEfficiently": "Gebruik je goud zo efficient mogelijk - deselecteer om alleen de meest efficiënte investeringen te doen volgens de land buy calculator",
+        "tenBuildOnce": "Koop 10 Gebouwen in één keer?(Ons advies)",
+        "extCharInfoDuration": "Milliseconden tot de uitgebreide Character informatie verdwijnt",
+        "joiningDuration": "Seconden nodig om het spel te laden voordat de chat laadt",
+        "enableChat": "Activeren van de chat(nodig om het script te herladen)",
+        "enableFavRequest": "Activeren Auto-Raid-Request voor Favorieten?",
+        "favIdToJoin": "Favoriete Ids om aan deel te nemen (Scheid meerderen met een komma)",
+        "worldserver": "Worldserver?"
+    },
+    "ui": {
+        "settingInfo": "Dit script zal constant de raids importeren die je handmatig hebt ingesteld op de website, indien geactiveerd zal het ook alle raids importeren die gelijk is aan een van de favourite zoekopdrachten.",
+        "maxPopupsFrame": "Maximale Popups/Frames oor het deelnemen aan raids",
+        "timeAutoJoin": "Tijd om automatisch aan raids deel te nemen ( herlaad het spel meerdere keren). Het format is [Uren]:[Minuten] zonder een nul te gebruiken, dus 7:1 is prima, 07:01 is dat niet",
+        "getFavFrom": "Haal je zoekfavouriten-favoriten van: ",
+        "raidsearch": "Idrinth's Raidsearch",
+        "reloadGameFail": "Het spel kon niet herladen worden."
+    }
+}
