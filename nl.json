@@ -25,7 +25,7 @@
         },
         "error": {
             "modify": "Ik kan gegevevens van die user op dit moment niet wijzigen",
-            "create": "Ik kan dit niet creëren op dit moment",
+            "create": "Ik kan dit niet creÃ«ren op dit moment",
             "join": "Deelnemen aan de chat was niet mogelijk",
             "login": "Login op een onverwachte wijze niet gelukt",
             "unknown": "Deze naam is niet bekent op dotd.idrinth.de, wil je deze registreren?"
@@ -36,7 +36,7 @@
             "message": "chat-bericht notificaties?"
         }
     },
-    "default": "Onverwacht probleem. Neem ajb contact op met de script developers (https://github.com/Idrinth/IDotD).",
+    "default": "Onverwacht probleem. Neem ajb contact op met de script developers (https://github.com/IDotD).",
     "land": {
         "lack": "Je hebt niet genoeg goud op dit moment.",
         "hour": "Goud per uur per stuk",
@@ -52,7 +52,7 @@
             "night": "Nightmare"
         },
         "tag": "Tag om te screen-toppen",
-        "maxBoxes": "Er is geen ruimte voor een extra tier-box op dit moment. Sluit er één."
+        "maxBoxes": "Er is geen ruimte voor een extra tier-box op dit moment. Sluit er Ã©Ã©n."
     },
     "raids": {
         "lastJoined": "Laatste raids gejoined",
@@ -81,8 +81,8 @@
         "minimLayout": "Minimalistische Vormgeving",
         "moveSettingLeft": "Verplaats de settings naar links",
         "warBottomPage": "Toon war aan de bodem van de pagina",
-        "useGoldEfficiently": "Gebruik je goud zo efficient mogelijk - deselecteer om alleen de meest efficiënte investeringen te doen volgens de land buy calculator",
-        "tenBuildOnce": "Koop 10 Gebouwen in één keer?(Ons advies)",
+        "useGoldEfficiently": "Gebruik je goud zo efficient mogelijk - deselecteer om alleen de meest efficiÃ«nte investeringen te doen volgens de land buy calculator",
+        "tenBuildOnce": "Koop 10 Gebouwen in Ã©Ã©n keer?(Ons advies)",
         "extCharInfoDuration": "Milliseconden tot de uitgebreide Character informatie verdwijnt",
         "joiningDuration": "Seconden nodig om het spel te laden voordat de chat laadt",
         "enableChat": "Activeren van de chat(nodig om het script te herladen)",
