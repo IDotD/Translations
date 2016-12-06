@@ -9,7 +9,7 @@
             "invite": "Zu Chat einladen ",
             "createChat": "Chat erstellen",
             "joinChat": "Chat beitreten",
-            "createAddChat": "Klicke, um neuen Chat zu erstellen",
+            "createAddChat": "Neuen Chat zu erstellen",
             "copyIdPasswort": "Passwort&Id kopieren",
             "deleteRoom": "Raum löschen",
             "leaveRoom": "Raum verlassen"
@@ -19,7 +19,7 @@
             "account": "Account",
             "title": "Chat",
             "creditEmoticon": "Emoticons erstellt durch ",
-            "optional": "Dieser Teil des Skripts ist optional, einloggen ist nicht nötig, um beispielsweise Raids beizutreten",
+            "optional": "Dieser Teil des Skripts ist optional, einloggen ist nicht nötig, um z.B. Raids beizutreten",
             "invalid": "Sie sollten nicht Ihre Login-Daten, wie Name oder Passwort der Website oder des Spiels, benutzen - der angezeigte Name kann nach der Registrierung angepasst werden.",
             "offline": "Sie sind nicht eingeloggt, bitte registrieren oder loggen Sie sich ein"
         },
