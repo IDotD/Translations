@@ -88,7 +88,8 @@
         "enableChat": "Chat aktivieren ( benötigt Neustart des Skripts)",
         "enableFavRequest": "Aktiviere automatische Nachfrage für Raids für Favoriten?",
         "favIdToJoin": "Favorisierte Ids zum beitreten ( mehrere mit Komma trennen)",
-        "worldserver": "Worldserver?"
+        "worldserver": "Worldserver?",
+        "lang": "Sprache"
     },
     "ui": {
         "settingInfo": "Dieses Skript wird immer alle Raids importieren, die Sie manuell auf der Website festgelegt haben und, falls aktiviert, wird es auch alle Favouriten aus Suchergebnissen importieren.",
