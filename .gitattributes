@@ -5,3 +5,4 @@
 *.scss text eol=lf
 *.md text eol=lf
 *.java text eol=lf
+*.php text eol=lf
