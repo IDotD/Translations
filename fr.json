@@ -1,0 +1,104 @@
+{
+    "chat": {
+        "actions": {
+            "banUser": "Bannir Utilisateur",
+            "makeMod": "Convertir en Moderateur",
+            "makeAdmin": "Convertir en Admin",
+            "makeUser": "Convertir en Utilisatueur",
+            "close": "Fermer",
+            "invite": "Inviter dans le Chat ",
+            "createChat": "Créer Chat",
+            "joinChat": "Joindre Chat",
+            "createAddChat": "Cliquez pour créer une nouvelle salle de chat.",
+            "copyIdPasswort": "Copier Id&MdP",
+            "deleteRoom": "Supprimer la Salle",
+            "leaveRoom": "Quitter la Salle"
+        },
+        "texts": {
+            "settings": "Plus de paramètres sous ",
+            "account": "Compte",
+            "title": "Chat",
+            "creditEmoticon": "Emoticones fournis par ",
+            "optional": "Cette partie du script est optionnelle, donc pas besoin de s'y connecter pour pouvoir importer des raids.",
+            "invalid": "Les identifiants doivent être différents de ceux utilisés pour vous connecter au site de jeu et peuvent ne pas correspondre avec votre nom dans le jeu - vous pourrez utiliser un pseudo après l'inscription.",
+            "offline": "Vous n'êtes pas connecté, cliquez sur se connecter/s'inscrire"
+        },
+        "error": {
+            "modify": "Impossible de modifier les droits utilisateur pour l'instant",
+            "create": "Création impossible pour l'instant",
+            "join": "Impossible de rejoindre pour l'instant",
+            "login": "La connexion a echoué de manière inattendue",
+            "unknown": "Le nom d'utilisateur pour dotd.idrinth.de est inconnu, voulez-vous l'y enregistrer ?"
+        },
+        "notification": {
+            "mention": "Notifications chat-mention ?",
+            "raid": "Notifications chat-raid?",
+            "message": "Notifications chat-message?"
+        }
+    },
+    "default": "Une erreur inconnue est survenue. Merci de contacter le développeur (https://github.com/Idrinth/IDotD).",
+    "land": {
+        "lack": "Vous n'avez pas assez d'or pour acheter des bâtiments pour l'instant.",
+        "hour": " or par heure",
+        "calc": "Calculer",
+        "available": "Or disponible"
+    },
+    "tier": {
+        "search": "Entrez les infos du Raid",
+        "name": "Nom du Raid",
+        "type": "Race du Raid",
+        "diff": {
+            "normal": "Normal",
+            "hard": "Hard",
+            "legend": "Legend",
+            "night": "Nightmare"
+        },
+        "tag": "Epingler en haut de l'écran",
+        "maxBoxes": "Plus assez d'espace disponible pour épingler."
+    },
+    "raids": {
+        "lastJoined": "Derniers raids joints",
+        "clear": "Vider Raids",
+        "disableJoining": "Désactiver la jonction automatique",
+        "clickCopy": "Cliquez pour copier le lien du raid",
+        "imports": {
+            "manually": "Tout importer manuellement",
+            "favs": "Importer les favoris manuellement",
+            "restart": "Redémarrer RaidJoin"
+        },
+        "disableSpecific": "Désactiver la jonction automatique pour certains raids"
+    },
+    "button": {
+        "ok": "Ok",
+        "cancel": "Annuler",
+        "reloadGame": "Recharger Jeu",
+        "reloadScript": "Recharger Script",
+        "refreshFBGameLogin": "Rafraîchir Identifiants Facebook",
+        "ngRaidJoin": "Joindre Raids NG (lent!)",
+        "disableTimedAutoJoin": "Désactiver AutoJoin",
+        "enableTimedAutoJoin": "Activer Autojoin"
+    },
+    "setting": {
+        "enableExtCharInfo": "Autoriser jeu de caractères étendu ?",
+        "minimLayout": "Interface Minimaliste",
+        "moveSettingLeft": "Barre de paramètres à gauche",
+        "warBottomPage": "Afficher le War Event en bas de la page",
+        "useGoldEfficiently": "Cochez pour utilisez l'or à vore manière - Décochez pour acheter le bâtiment le plus rentable selon le calculateur",
+        "tenBuildOnce": "Acheter 10 Bâtiments en même temps ?",
+        "extCharInfoDuration": "Millisecondes avant désactivation du jeu de caractères étendu",
+        "joiningDuration": "Secondes nécessaires au chargement du jeu avant de pouvoir rejoindre",
+        "enableChat": "Autoriser chat(nécessite le redémarrage du script)",
+        "enableFavRequest": "Autoriser l'Auto-Raid-Request pour vos Favoris ?",
+        "favIdToJoin": "Raids favoris à rejoindre (séparés par des virgules)",
+        "worldserver": "Serveur Monde ?",
+        "lang": "Langue"
+    },
+    "ui": {
+        "settingInfo": "Ce script importera toujours les raids que vous avez sélectionné sur le site web et, si activé, les raids correspondant à vos critères de favoris.",
+        "maxPopupsFrame": "Popups max pour rejoindre des raids",
+        "timeAutoJoin": "Heure à laquelle rejoindre les raids (recharge le jeu plusieurs fois). Le format est [Heures]:[Minutes] sans zéro, donc 7:1 est correct, mais pas 07:01",
+        "getFavFrom": "Récupérer vos critères de favoris sur ",
+        "raidsearch": "Idrinth's Raidsearch",
+        "reloadGameFail": "Le jeu n'a pu être rechargé"
+    }
+}
