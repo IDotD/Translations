@@ -44,7 +44,9 @@
         "available": "Available Gold"
     },
     "tier": {
-        "search": "Enter Boss' Name",
+        "search": "Enter Boss' data",
+        "name": "Boss' name",
+        "type": "Boss' race",
         "diff": {
             "normal": "Normal",
             "hard": "Hard",
