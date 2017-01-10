@@ -44,7 +44,9 @@
         "available": "Verfügbares Gold"
     },
     "tier": {
-        "search": "Geben Sie den Namen des Bosses ein",
+        "search": "Geben Sie Daten des Bosses ein",
+        "name": "Bossname",
+        "type": "Bossrasse",
         "diff": {
             "normal": "Normal",
             "hard": "Hart",
