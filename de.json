@@ -37,21 +37,21 @@
         }
     },
     "default": "Ein unerwareteter Fehler ist eingetreten. Bitte kontaktiere die Entwickler (https://github.com/Idrinth/IDotD).",
-  "land": {
-    "lack": "Sie haben nicht genug Gold, um Gebäude zu kaufen.",
-    "hour": " Gold pro Stunde und Gebäude",
-    "calc": "Berechne",
-    "available": "Verfügbares Gold",
-    "Cornfield": "Kornfeld",
-    "Stable": "Stall",
-    "Barn": "Scheune",
-    "Store": "Lager",
-    "Pub": "Gasthaus",
-    "Inn": "Herberge",
-    "Tower": "Turm",
-    "Fort": "Festung",
-    "Castle": "Burg"
-  },
+    "land": {
+        "lack": "Sie haben nicht genug Gold, um Gebäude zu kaufen.",
+        "hour": " Gold pro Stunde und Gebäude",
+        "calc": "Berechne",
+        "available": "Verfügbares Gold",
+        "Cornfield": "Kornfeld",
+        "Stable": "Stall",
+        "Barn": "Scheune",
+        "Store": "Lager",
+        "Pub": "Gasthaus",
+        "Inn": "Herberge",
+        "Tower": "Turm",
+        "Fort": "Festung",
+        "Castle": "Burg"
+    },
     "tier": {
         "search": "Geben Sie Daten des Bosses ein",
         "name": "Bossname",
@@ -108,13 +108,13 @@
         "timeAutoJoin": "Zeit, um langsam automatisch Raids beizutreten ( lädt Spiel mehrere Male neu). Format ist [Stunden]:[Minuten] ohne anführende Nullen, also 7:1 ist gut, 07:01 ist schlecht",
         "getFavFrom": "Bekomme Suchfavoriten aus ",
         "raidsearch": "Idrinths Raidsearch",
-      "reloadGameFail": "Das Spiel konnte nicht neu gestartet werden",
-      "tabs": {
-        "Actions": "Aktionen",
-        "Raids": "Raids",
-        "Settings": "Einstellungen",
-        "Tiers": "Tiers",
-        "Land": "Land"
-      }
+        "reloadGameFail": "Das Spiel konnte nicht neu gestartet werden",
+        "tabs": {
+            "Actions": "Aktionen",
+            "Raids": "Raids",
+            "Settings": "Einstellungen",
+            "Tiers": "Tiers",
+            "Land": "Land"
+        }
     }
 }
