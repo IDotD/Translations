@@ -37,12 +37,21 @@
         }
     },
     "default": "Unexpected error occurred. Please contact script developers (https://github.com/Idrinth/IDotD).",
-    "land": {
-        "lack": "You lack gold to buy any more buildings at the moment.",
-        "hour": " gold per hour each",
-        "calc": "Calculate",
-        "available": "Available Gold"
-    },
+  "land": {
+    "lack": "You lack gold to buy any more buildings at the moment.",
+    "hour": " gold per hour each",
+    "calc": "Calculate",
+    "available": "Available Gold",
+    "Cornfield" : "Kornfeld",
+    "Stable": "Stall",
+    "Barn" :"Scheune",
+    "Store" :"Lager",
+    "Pub": "Gasthaus",
+    "Inn" :"Herberge",
+    "Tower": "Turm",
+    "Fort": "Festung",
+    "Castle": "Burg"
+  },
     "tier": {
         "search": "Enter Boss' data",
         "name": "Boss' name",
@@ -93,12 +102,19 @@
         "worldserver": "Worldserver?",
         "lang": "Language"
     },
-    "ui": {
-        "settingInfo": "This script will always import the raids you manually set to be imported on the website and if it's enabled it will also import all raids matched by one of the faved searches provided.",
-        "maxPopupsFrame": "Maximum Popups/Frames for joining raids",
-        "timeAutoJoin": "Time to automatically join raids slowly(reloads game multiple times). Format is [Hours]:[Minutes] without leading zeros, so 7:1 is fine, 07:01 is not",
-        "getFavFrom": "Get your search-favorites from ",
-        "raidsearch": "Idrinth's Raidsearch",
-        "reloadGameFail": "The game couldn't be reloaded"
+  "ui": {
+    "settingInfo": "This script will always import the raids you manually set to be imported on the website and if it's enabled it will also import all raids matched by one of the faved searches provided.",
+    "maxPopupsFrame": "Maximum Popups/Frames for joining raids",
+    "timeAutoJoin": "Time to automatically join raids slowly(reloads game multiple times). Format is [Hours]:[Minutes] without leading zeros, so 7:1 is fine, 07:01 is not",
+    "getFavFrom": "Get your search-favorites from ",
+    "raidsearch": "Idrinth's Raidsearch",
+    "reloadGameFail": "The game couldn't be reloaded",
+    "tabs": {
+      "Actions": "Actions",
+      "Raids": "Raids",
+      "Settings": "Settings",
+      "Tiers": "Tiers",
+      "Land": "Land"
     }
-}
+    }
+  }
