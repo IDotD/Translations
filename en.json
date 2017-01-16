@@ -116,5 +116,17 @@
             "Tiers": "Tiers",
             "Land": "Land"
         }
+    },
+    "stats": {
+        "stats": "avaible SP",
+        "perception": "Perception",
+        "attack": "Attack",
+        "defense": "Defense",
+        "mirele": "Mirele active",
+        "kraken": "Kraken active",
+        "utym": "Utym avaible",
+        "level": "Your level",
+        "critchance": "Crit chance",
+        "mount": "Average mount damage %"
     }
 }
