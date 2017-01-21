@@ -64,7 +64,7 @@
         },
         "tag": "An den oberen Bildschirmrand anheften",
         "maxBoxes": "Es gibt keinen Platz für eine weitere Tierbox , bitte schließe eine.",
-        "ClickClose":  "Zum Schließen klicken"
+        "clickClose":  "Zum Schließen klicken"
     },
     "raids": {
         "lastJoined": "Zuletzt beigetretene Raids",
