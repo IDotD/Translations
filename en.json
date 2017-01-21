@@ -63,7 +63,8 @@
             "night": "Nightmare"
         },
         "tag": "Tag to screen-top",
-        "maxBoxes": "There is no space for another tier-box at the moment, please close one first."
+        "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
+        "clickClose":  "Click to close"
     },
     "raids": {
         "lastJoined": "Last raids joined",
