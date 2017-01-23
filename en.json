@@ -65,7 +65,7 @@
         "tag": "Tag to screen-top",
         "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
         "clickClose": "Click to close",
-        "AP": "Achievement point damage",
+        "AP": "Needed damage for achievement point",
         "FS": "Fair share",
         "OS": "Optimal share",
         "MA": "Maximum/highest tier",
