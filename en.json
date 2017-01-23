@@ -64,7 +64,12 @@
         },
         "tag": "Tag to screen-top",
         "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
-        "clickClose":  "Click to close"
+        "clickClose": "Click to close",
+        "AP": "Achievement point damage",
+        "FS": "Fair share",
+        "OS": "Optimal share",
+        "MA": "Maximum/highest tier",
+        "MI": "Minimum/lowest tier"
     },
     "raids": {
         "lastJoined": "Last raids joined",
