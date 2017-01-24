@@ -74,7 +74,7 @@
     "raids": {
         "lastJoined": "Zuletzt beigetretene Raids",
         "clear": "Lösche Raids",
-        "disableJoining": "Beitreten der Raids deaktivieren",
+        "disableJoining": "Deaktiviere Beitreten von ",
         "clickCopy": "Klicke, um Raidlink zu kopieren",
         "imports": {
             "manually": "Importiere alle Raids manuell",
