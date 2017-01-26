@@ -64,7 +64,12 @@
         },
         "tag": "Tag to screen-top",
         "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
-        "clickClose":  "Click to close"
+        "clickClose": "Click to close",
+        "AP": "Needed damage for achievement point",
+        "FS": "Fair share",
+        "OS": "Optimal share",
+        "MA": "Maximum/highest tier",
+        "MI": "Minimum/lowest tier"
     },
     "raids": {
         "lastJoined": "Last raids joined",
@@ -116,16 +121,23 @@
             "Settings": "Settings",
             "Tiers": "Tiers",
             "Land": "Land"
+        },
+        "wrap": {
+            "general": "General",
+            "names": "Names",
+            "landbuy": "Land Buy",
+            "raidjoining": "Raid Joining",
+            "chat": "Chat"
         }
     },
     "stats": {
-        "stats": "avaible SP",
+        "stats": "Available SP",
         "perception": "Perception",
         "attack": "Attack",
         "defense": "Defense",
         "mirele": "Mirele active",
         "kraken": "Kraken active",
-        "utym": "Utym avaible",
+        "utym": "Utym available",
         "level": "Your level",
         "critchance": "Crit chance",
         "mount": "Average mount damage %"
