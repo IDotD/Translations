@@ -79,7 +79,7 @@
         "imports": {
             "manually": "Importiere alle Raids manuell",
             "favs": "Importiere fav. Raids manuell",
-            "restart": "Starte das Beitreten von Raids neu"
+            "restart": "Beitreten von Raids neustarten"
         },
         "disableSpecific": "Deaktiviere automatisches Beitreten für bestimmte Raids"
     },
@@ -104,7 +104,7 @@
         "joiningDuration": "Sekunden, die das Spiel zum Laden braucht, bevor man Raids beitreten kann",
         "enableChat": "Chat aktivieren ( benötigt Neustart des Skripts)",
         "enableFavRequest": "Aktiviere automatische Nachfrage für Raids für Favoriten?",
-        "favIdToJoin": "Favorisierte Ids zum beitreten ( mehrere mit Komma trennen)",
+        "favIdToJoin": "Favorisierte Ids zum beitret<en ( mehrere mit Komma trennen)",
         "worldserver": "Worldserver?",
         "lang": "Sprache"
     },
@@ -132,14 +132,14 @@
         }
     },
     "stats": {
-        "stats": "verfügbare SP",
+        "stats": "Verfügbare SP",
         "perception": "Perception",
         "attack": "Attack",
         "defense": "Defense",
         "mirele": "Mirele aktiv",
         "kraken": "Kraken aktiv",
         "utym": "Utym aktiv",
-        "level": "Dein level",
+        "level": "Dein Level",
         "critchance": "Kritchance",
         "mount": "Durchschn. Reittierschaden %"
     }
