@@ -127,7 +127,8 @@
             "names": "Names",
             "landbuy": "Land Buy",
             "raidjoining": "Raid Joining",
-            "chat": "Chat"
+            "chat": "Chat",
+            "stats": "Stat Buy"
         }
     },
     "stats": {
