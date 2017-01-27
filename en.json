@@ -120,15 +120,15 @@
             "Raids": "Raids",
             "Settings": "Settings",
             "Tiers": "Tiers",
-            "Land": "Land"
+            "Land": "Land",
+            "Stats": "Stat Buy"
         },
         "wrap": {
             "general": "General",
             "names": "Names",
             "landbuy": "Land Buy",
             "raidjoining": "Raid Joining",
-            "chat": "Chat",
-            "stats": "Stat Buy"
+            "chat": "Chat"
         }
     },
     "stats": {
