@@ -63,6 +63,7 @@
             "night": "Nightmare"
         },
         "tag": "Tag to screen-top",
+        "copy": "Copy NM for chat",
         "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
         "clickClose": "Click to close",
         "AP": "Needed damage for achievement point",
