@@ -88,6 +88,7 @@
         "ok": "Ok",
         "cancel": "Abbrechen",
         "reloadGame": "Lade Spiel neu",
+        "reloadChat": "Lade Chat neu",
         "reloadScript": "Lade Skript neu",
         "refreshFBGameLogin": "Erneuere Facebook Game Login",
         "ngRaidJoin": "NG Raid Beitritt ( langsam!)",
