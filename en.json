@@ -62,6 +62,13 @@
             "legend": "Legend",
             "night": "Nightmare"
         },
+        "loot": {
+            "c": "Common",
+            "u": "Uncommon",
+            "r": "Rare",
+            "e": "Epic",
+            "s": "Direct Stats"
+        },
         "tag": "Tag to screen-top",
         "copy": "Copy NM for chat",
         "maxBoxes": "There is no space for another tier-box at the moment, please close one first.",
