@@ -62,6 +62,13 @@
             "legend": "Legendär",
             "night": "Alptraum"
         },
+        "loot": {
+            "c": "Üblich",
+            "u": "Unüblich",
+            "r": "Selten",
+            "e": "Episch",
+            "s": "Direkte Stats"
+        },
         "tag": "An oberen Bildschirmrand anheften",
         "copy": "NM für Chat kopieren",
         "maxBoxes": "Es gibt keinen Platz für eine weitere Tierbox , bitte schließe eine.",
