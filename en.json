@@ -115,7 +115,7 @@
         "enableFavRequest": "Enable Auto-Raid-Request for Favorites?",
         "favIdToJoin": "FavoriteIds to join (separate multiple by comma)",
         "worldserver": "Worldserver?",
-        "lang": "Language"
+        "lang": "Language",
         "raidWhitelist": "Invert script-filter for Raids?"
     },
     "ui": {
