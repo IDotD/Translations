@@ -33,7 +33,9 @@
         "notification": {
             "mention": "Benachrichtigungen bei Erwähnung im Chat?",
             "raid": "Benachrichtigung, wenn ein Raid gepostet wird?",
-            "message": "Benachrichtigungen für Chat-Nachrichten?"
+            "message": "Benachrichtigungen für Chat-Nachrichten?",
+            "content": "Inhalt anzeigen?",
+            "image": "Logo anzeigen?"
         }
     },
     "default": "Ein unerwareteter Fehler ist eingetreten. Bitte kontaktiere die Entwickler (https://github.com/Idrinth/IDotD).",
