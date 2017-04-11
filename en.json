@@ -33,7 +33,9 @@
         "notification": {
             "mention": "chat-mention notifications?",
             "raid": "chat-raid notifications?",
-            "message": "chat-message notifications?"
+            "message": "chat-message notifications?",
+            "content": "show content?",
+            "image": "show logo?"
         }
     },
     "default": "Unexpected error occurred. Please contact script developers (https://github.com/Idrinth/IDotD).",
