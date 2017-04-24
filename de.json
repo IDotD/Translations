@@ -86,6 +86,10 @@
         "clear": "Lösche Raids",
         "disableJoining": "Deaktiviere Beitreten von ",
         "clickCopy": "Klicke, um Raidlink zu kopieren",
+        "disable": {
+            "none": "Alle abwählen",
+            "all": "Alle auswählen"
+        },
         "imports": {
             "manually": "Importiere alle Raids manuell",
             "favs": "Importiere fav. Raids manuell",
