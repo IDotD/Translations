@@ -85,6 +85,10 @@
         "lastJoined": "Last raids joined",
         "clear": "Clear Raids",
         "disableJoining": "Disable joining for ",
+        "disable": {
+            "none": "Check none",
+            "all": "Check all"
+        },
         "clickCopy": "click to copy raid link",
         "imports": {
             "manually": "Import all manually",
