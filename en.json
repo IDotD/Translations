@@ -126,7 +126,7 @@
         "server": "Disable server requests after startup",
         "raids": {
             "requestPrivate": "Request private raids",
-            "joinPrivate": "Join private raids",
+            "joinPrivate": "Join private raids"
         }
     },
     "ui": {
