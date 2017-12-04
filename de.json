@@ -122,7 +122,12 @@
         "favIdToJoin": "Favorisierte Ids zum beitreten ( mehrere mit Komma trennen)",
         "worldserver": "Worldserver?",
         "lang": "Sprache",
-        "raidWhitelist": "Script-Filter für Raids umkehren?"
+        "raidWhitelist": "Script-Filter für Raids umkehren?",
+        "server": "Serveranfragen nach Start unterbinden",
+        "raids": {
+            "requestPrivate": "Private Raids anfragen",
+            "joinPrivate": "Privaten Raids beitreten",
+        }
     },
     "ui": {
         "settingInfo": "Dieses Skript wird immer alle Raids importieren, die Sie manuell auf der Website festgelegt haben und, falls aktiviert, wird es auch alle Favouriten aus Suchergebnissen importieren.",
