@@ -123,7 +123,7 @@
         "worldserver": "Worldserver?",
         "lang": "Language",
         "raidWhitelist": "Invert script-filter for Raids?",
-        "server": "Disable server requests after startup",
+        "server": "Disable server requests after startup?",
         "raids": {
             "requestPrivate": "Request private raids",
             "joinPrivate": "Join private raids"
